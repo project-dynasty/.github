@@ -1,4 +1,4 @@
-![dynasty-github-background-image](dynasty-transparent.png "Dynasty GitHub background image")
+![dynasty-github-background-image](dynasty-transparent.png)
 
 
 ### Welcome! 👋🏼
