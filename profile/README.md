@@ -1,4 +1,4 @@
-![Project: DYNASTY GitHub Profile image](https://github.com/project-dynasty/.github/blob/production/profile/github-title.png)
+![dynasty-github-background-image](dynasty-transparent.png "Dynasty GitHub background image")
 
 
 ### Welcome! 👋🏼
